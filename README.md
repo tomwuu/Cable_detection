@@ -45,6 +45,8 @@ The whole dataset is available at [BDD100K](http://bdd-data.berkeley.edu/).
 
 ## My fake data for cable detection
 The whole dataset is available at [cable_fake]().
+You can make your own data using [POV-Ray](http://www.povray.org/). It can simulate lots of textures, use these textures 
+and combine them with your background pictures. 
 
 
 # SCNN-Tensorflow
